@@ -14,6 +14,7 @@ func main() {
 		Idade: 38,
 		Ativo: true,
 	}
+
 	hugo.Ativo = false
 
 	fmt.Println(hugo.Ativo)
