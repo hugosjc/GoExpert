@@ -28,4 +28,5 @@ func main() {
 
 	fmt.Println(hugo.Ativo)
 	fmt.Println(hugo.Logradouro)
+
 }
